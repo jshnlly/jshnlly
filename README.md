@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hey, I'm Josh! 👋
 
-<!--
-**jshnlly/jshnlly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a product designer, below average developer (working on this), and writer from Detroit. Currently, I'm designing web experiences for CBS Sports.
 
-Here are some ideas to get you started:
+My personal site -> 
+My Twitter (DMs Open!) -> 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
