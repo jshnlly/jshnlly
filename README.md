@@ -26,4 +26,4 @@ I'm a product designer, developer, and writer from Detroit. Currently, I'm desig
 ### 🥅 Where I'm Headed ...
 
 
-- Currently spending a lot of my time sharpening my design skills, but also improving my developement and UI engineering skills in both Swift and React. I have a goal to build out my personal site in React by the end of this year. I'm doubling down on my interests in Swift & React so I can leverage good design and actually build out new ideas.
+- Currently spending a lot of my time sharpening my design skills, but also improving my development and UI engineering skills in both Swift and React. I have a goal to build out my personal site in React by the end of this year. I'm doubling down on my interests in Swift & React so I can leverage good design and actually build out new ideas.
