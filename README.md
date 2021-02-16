@@ -10,7 +10,7 @@ I'm a product designer, developer, and writer from Detroit. Currently, I'm desig
 ### 🔭 I’m currently working on ...
 
 
-- 🏈 The <a href="https://247sports.com" target="_blank">247Sports.com</a> Web Experience
+- 🏈 The <a href="https://cbssports.com" target="_blank">CBSSports.com</a> Video Consumption Experience
 
 - 🔖 An app that introduces a new way to manage and share links with friends
 
