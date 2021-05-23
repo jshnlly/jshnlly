@@ -1,29 +1,7 @@
-### Hey, I'm Josh! 👋
+### Josh Nelson
 
 
-I'm a product designer, developer, and writer from Detroit. Currently, I'm designing web experiences for CBS Sports.
+I’m an interaction designer aspiring to create interfaces and mediums for thought that can expand our productivity.
 
-<a href="https://joshn.io" target="_blank">My personal site →</a>
+Currently designing content-rich experiences at CBS Sports.
 
-<a href="https://twitter.com/jnelly2" target="_blank">My Twitter →</a>
-
-### 🔭 I’m currently working on ...
-
-
-- 🏈 The <a href="https://cbssports.com" target="_blank">CBS Sports</a> Video Experience
-
-- 🔖 An app that introduces a new way to manage and share links with friends
-
-- 📖 Building better reading and writing habits
-
-### 🌱 I’m currently learning ...
-
-
-- 🌙 SwiftUI 
-
-- ⚛ React
-
-### 🥅 Where I'm Headed ...
-
-
-- Currently spending a lot of my time sharpening my design skills, but also improving my development and UI engineering skills in both Swift and React. I have a goal to build out my personal site in React by the end of this year. I'm doubling down on my interests in Swift & React so I can leverage good design and actually build out new ideas.
