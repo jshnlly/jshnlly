@@ -1,6 +1,6 @@
 ### Josh Nelson
 
-Designer at Instagram in SF. Writer. 
+Designer at Instagram in SF. Writer.   
 Working weekends on Atmosphere.
 
 Twitter -> @jnelly2  
