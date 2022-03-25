@@ -1,7 +1,9 @@
 ### Josh Nelson
 
+Designer at Instagram in SF. Writer. 
+Working weekends on Atmosphere.
 
-I’m an interaction designer aspiring to create interfaces and mediums for thought that can expand our productivity.
-
-Currently I'm an incoming product designer at Instagram in SF.
+Twitter -> @jnelly2
+CV -> read.cv/josh
+Linkedin -> /in/jshn
 
