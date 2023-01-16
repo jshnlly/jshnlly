@@ -1,9 +1,4 @@
-### Josh Nelson
-
-Designer at Instagram in SF.
-Trying to make delightful software
-
-Twitter -> @jnelly2  
+Designer at Instagram in SF
 CV -> read.cv/josh  
-Linkedin -> /in/jshn
+
 
