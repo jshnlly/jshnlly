@@ -1,4 +1,6 @@
-Designer at Instagram in SF
--> read.cv/josh  
+design @ Instagram
+
+-> read.cv/josh
+-> joshn.io
 
 
